@@ -22,7 +22,7 @@ linked_parts = [p for p in parts if p.get("part/type") == "linked"]
 meta_parts = [p for p in parts if p.get("part/type") == "meta"]
 subassy_parts = [p for p in parts if p.get("part/type") == "sub-assembly"]
 
-part_id_mapping = {}
+part_id_mapping = []
 
 def create_part(part, extra_payload=None, part_type=None):
     if part_type is None:
@@ -53,24 +53,40 @@ def create_part(part, extra_payload=None, part_type=None):
 for part in local_parts:
     old_id = part.get("part/id")
     new_id = create_part(part)
-    if new_id:
-        part_id_mapping[old_id] = new_id
+    name = part.get("part/name")
+    if old_id and new_id:
+        part_id_mapping.append({
+            "part/name": name,
+            "old_id": old_id,
+            "new_id": new_id
+        })
 
 # Import linked parts
 for part in linked_parts:
     old_id = part.get("part/id")
     new_id = create_part(part, part_type="local")
-    if new_id:
-        part_id_mapping[old_id] = new_id
-    print(f"WARN: Part must be linked manually: {part.get("part/name")}, (ID: {new_id})")
+    name = part.get("part/name")
+    if old_id and new_id:
+        part_id_mapping.append({
+            "part/name": name,
+            "old_id": old_id,
+            "new_id": new_id
+        })
+    print(f"WARN: Part must be linked manually: {name}, (ID: {new_id})")
 
 # Import sub-assembly parts (after all leaves are imported)
-# subassy can't be created directly
-# for part in subassy_parts:
-#     old_id = part.get("part/id")
-#     new_id = create_part(part)
-#     if new_id:
-#         part_id_mapping[old_id] = new_id
+# subassy can't be created directly, converting to local
+for part in subassy_parts:
+    old_id = part.get("part/id")
+    new_id = create_part(part, part_type="local")
+    name = part.get("part/name")
+    if old_id and new_id:
+        part_id_mapping.append({
+            "part/name": name,
+            "old_id": old_id,
+            "new_id": new_id
+        })
+    print(f"WARN: Subassembly part converted to local: {name}, (ID: {new_id})")
 
 # Import meta parts (after all leaves and subassemblies are imported)
 for part in meta_parts:

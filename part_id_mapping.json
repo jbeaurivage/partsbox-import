@@ -1,4 +1,24 @@
 [
+   {
+    "part/name": "nimbus-v0.2",
+    "old_id": "12vhy131d6k8e8346z9qq3cktb",
+    "new_id": "6gwq1ztz9wjmk9cyy2w54tmvf0"
+  },
+  {
+    "part/name": "expedite-v0.7",
+    "old_id": "a4cc8rdbtgha48fk3qgxk0d2fb",
+    "new_id": "7pt6302qzcjyt9ywq8tpqe5kz1"
+  },
+  {
+    "part/name": "expedite-kit",
+    "old_id": "5e8yjp00fekp68qq69y89hpyde",
+    "new_id": "75h8q7rtnwhz1ad0r4tq0yxna4"
+  },
+  {
+    "part/name": "nimbus-wpt-v0.1",
+    "old_id": "fz6qct5bdjkf089mjabx24fvda",
+    "new_id": "csgfmtv7etgs98jdsz14cteds7"
+  },
   {
     "part/name": "C0603C103J5RACTU",
     "old_id": "7qz5rrtjvjj86apc9hpay6nb4g",
