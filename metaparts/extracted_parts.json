@@ -1,0 +1,1901 @@
+[
+  {
+    "part_id": "0dykfgpefmkz8a8v9as9xtccmz",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "10nF",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "0egfm2yghpjhk9wmfq6nh7wdd4",
+    "specs": {
+      "type": "resistor",
+      "resistance": "10k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "17ca42zv2thpgb0be7dtyjr194",
+    "specs": {
+      "type": "inductor",
+      "inductance": "2.7nH",
+      "footprint": "0402",
+      "tolerance": "0.2nH",
+      "q_factor": "20",
+      "current_rating": "850mA",
+      "dcr": "50mOhm"
+    }
+  },
+  {
+    "part_id": "050qn4y26rjf8bzb35hya24kt1",
+    "specs": {
+      "type": "connector",
+      "description": "USB-C Receptacle, 16PIN"
+    }
+  },
+  {
+    "part_id": "0mkdemqshpkqrbj8g3a5cvbqae",
+    "specs": {
+      "type": "inductor",
+      "inductance": "0.0047uH",
+      "footprint": "0402"
+    }
+  },
+  {
+    "part_id": "1p6mg8beywjhw8yzm1w32nfs7t",
+    "specs": {
+      "type": "resistor",
+      "resistance": "330",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "03ftkwabtgggr8e4ntsw9fbwcq",
+    "specs": {
+      "type": "inductor",
+      "inductance": "8.2nH",
+      "footprint": "0402",
+      "tolerance": "2%",
+      "current_rating": "540mA",
+      "dcr": "140mOhm",
+      "q_factor": "25"
+    }
+  },
+  {
+    "part_id": "0350jsjdqpg2c8n0ebg1mm99qq",
+    "specs": {
+      "type": "resistor",
+      "resistance": "100k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "26vqvkm2begv9bf49jc4k9vvgs",
+    "specs": {
+      "type": "resistor",
+      "resistance": "68K",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "0r4fa6zb0ykh4ar3ywv4h042va",
+    "specs": {
+      "type": "voltage regulator",
+      "topology": "buck",
+      "output_voltage": "3.3V",
+      "output_current": "600mA",
+      "footprint": "SOT23-5"
+    }
+  },
+  {
+    "part_id": "4wzj5c72qgkezarcedps8vmyw7",
+    "specs": {
+      "type": "IC",
+      "description": "push button on/off controller",
+      "footprint": "8DFN"
+    }
+  },
+  {
+    "part_id": "0qqysxg7cjgmma7ffvt472n433",
+    "specs": {
+      "type": "other",
+      "null": null
+    }
+  },
+  {
+    "part_id": "0sp07t6xbakstbecakax3ykmnv",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "4.7nF",
+      "footprint": "0402",
+      "tolerance": "10%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "1w564z0nkchm0a845qf9c8a0h8",
+    "specs": {
+      "type": "pressure_sensor",
+      "null": null
+    }
+  },
+  {
+    "part_id": "2m8pmfbk68jnfapzp9wj5xvgm4",
+    "specs": {
+      "type": "resistor",
+      "resistance": "16",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "0dsffwghvcg2mbegjb5aab1pwr",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.01uF",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "voltage_rating": "25V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "2tnrymc31rktyahff46kt64t9r",
+    "specs": {
+      "type": "voltage regulator",
+      "subtype": "LDO",
+      "output_voltage": "3.3V",
+      "current_rating": "0.5A",
+      "footprint": "SOT-23-5"
+    }
+  },
+  {
+    "part_id": "19d5sxxsmgkymaexa0qc34nkep",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "100uF",
+      "footprint": "3216",
+      "tolerance": "10%",
+      "voltage_rating": "6.3V",
+      "dielectric": "Tantalum"
+    }
+  },
+  {
+    "part_id": "56wpwr3ybejq096xa2kessv42c",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1.87M",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "1rw5cb27z0k0c8bjasfe6fdtmr",
+    "specs": {
+      "type": "dc-dc converter",
+      "footprint": "SOT-23-5",
+      "temperature_range": "-40 to 85°C"
+    }
+  },
+  {
+    "part_id": "1tsd5r0dayjmf84qxd7c2s08eb",
+    "specs": {
+      "type": "resistor",
+      "resistance": "470",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "22cc282tgrgew9qj2ep1k2kqb1",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.47uF",
+      "footprint": "0402",
+      "tolerance": "20%",
+      "voltage_rating": "16V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "30ca98vr8cg28ah2zpebexaaj8",
+    "specs": {
+      "type": "connector",
+      "subtype": "PCB terminal block",
+      "pitch": "2.5mm",
+      "current_rating": "6A",
+      "positions": "2",
+      "wire_size": "0.5mm2",
+      "mounting": "SMD",
+      "color": "black",
+      "connection_type": "push-in",
+      "part_number": "PTSM-0,5/2-2,5-H-SMD-R24"
+    }
+  },
+  {
+    "part_id": "0eeen0d44ch2t8fdbbz99m41d2",
+    "specs": {
+      "type": "resistor",
+      "resistance": "100K",
+      "footprint": "0603",
+      "tolerance": "0.5%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "3aq7j4006gk48bg59cetgmayas",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "3.3pF",
+      "footprint": "0402",
+      "tolerance": "0.1pF",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "24vs7x6ezrk8m8mvn44redvn2g",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "100nF",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "voltage_rating": "25V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "5j6fs992h4jfmaycgyryhzjtj6",
+    "specs": {
+      "type": "MOSFET",
+      "channel": "P",
+      "mode": "enhancement",
+      "bvdss": "8V-24V",
+      "footprint": "SOT23",
+      "manufacturer": "Diodes Inc",
+      "mpn": "DMP2045U-7"
+    }
+  },
+  {
+    "part_id": "22gmpt5xmyh9tbkh5cyeqpyb5b",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.47uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "25V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "215c90s5eckpwb5pr4xd2csq1m",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "2nvzvwqq0chpk8brkxqqh0rk1q",
+    "specs": {
+      "type": "voltage_regulator",
+      "voltage_output": "3.3V",
+      "current_rating": "500mA",
+      "footprint": "SOT-23-5",
+      "topology": "LDO"
+    }
+  },
+  {
+    "part_id": "3ehpgmjenjhbhavwz1d4bsyt2m",
+    "specs": {
+      "type": "sensor",
+      "description": "BMP280 Absolute Barometric Pressure Sensor",
+      "footprint": "2x2.5mm"
+    }
+  },
+  {
+    "part_id": "20k7t64tgyg5h84qxncgxe1ytm",
+    "specs": {
+      "type": "terminal_block",
+      "pitch": "5.00mm",
+      "positions": "2",
+      "color": "blue",
+      "mounting": "through-hole",
+      "style": "euro block",
+      "termination": "slotted screw"
+    }
+  },
+  {
+    "part_id": "3nxbe8gh1thjf9tpfxm6ehtz9r",
+    "specs": {
+      "type": "connector",
+      "description": "Stacking Board Connector, DW Series, 2 Contacts, Header, 2.54mm, Through Hole, 1 Rows"
+    }
+  },
+  {
+    "part_id": "2mz4k4g4prj07b45g65jpta3pk",
+    "specs": {
+      "type": "resistor",
+      "resistance": "180",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "6gwq1ztz9wjmk9cyy2w54tmvf0",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "2pkfpt4bsgj4a9k4stmbec54ha",
+    "specs": {
+      "type": "resistor",
+      "resistance": "5.1k",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "2cfvbzybmjk6c9f9wmtax51ehm",
+    "specs": {
+      "type": "power multiplexer",
+      "description": "1.6-V to 5.5-V, 40-mΩ, 2.5-A, low-IQ, priority power multiplexer",
+      "footprint": "SOT-5X3-8",
+      "voltage_range": "1.6V-5.5V",
+      "on_resistance": "40mΩ",
+      "current_rating": "2.5A",
+      "temperature_range": "-40 to 125°C"
+    }
+  },
+  {
+    "part_id": "2ww9zrz8zakneb4qqspbbstan5",
+    "specs": {
+      "type": "LED",
+      "color": "White",
+      "footprint": "2835",
+      "pin_count": "2"
+    }
+  },
+  {
+    "part_id": "3y51d4n4kyhyx9033j4nemn5my",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.022uF",
+      "footprint": "0402",
+      "tolerance": "10%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "26etgpz3degte9magspwhqya5n",
+    "specs": {
+      "type": "resistor",
+      "resistance": "470",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "44rygfp4rekbs808ywxgjgnaxa",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "8.2pF",
+      "footprint": "0603",
+      "tolerance": "",
+      "voltage_rating": "10V",
+      "dielectric": "Ultra Stable"
+    }
+  },
+  {
+    "part_id": "45csbrzwz2kb38k4p7ms8sfvg2",
+    "specs": {
+      "type": "resistor",
+      "resistance": "2.2k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "6kjhxsrjktkmm9pqm72b7j4wz3",
+    "specs": {
+      "type": "inductor",
+      "inductance": "9.5nH",
+      "footprint": "0402",
+      "current_rating": "540mA",
+      "dc_resistance": "140mOhm"
+    }
+  },
+  {
+    "part_id": "33x3j8v38jjtd9mtaq0wgnmxxr",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "2v84cqc6tjjj09qz16w61r4z7a",
+    "specs": {
+      "type": "voltage regulator",
+      "description": "500-mA, negative, adjustable low-dropout voltage regulator from -40°C to +85°C",
+      "footprint": "8-SOIC"
+    }
+  },
+  {
+    "part_id": "5ahdstsgs0jmhazkejxresjmj3",
+    "specs": {
+      "type": "switch",
+      "switch_type": "tactile",
+      "configuration": "SPST N.O.",
+      "current_rating": "0.05A",
+      "voltage_rating": "32VDC",
+      "mounting": "SMD",
+      "actuator": "round button",
+      "lifecycle": "150000 cycles",
+      "operating_force": "3N"
+    }
+  },
+  {
+    "part_id": "5dmgt6krpaj8v8pepjf43wbnjb",
+    "specs": {
+      "type": "resistor",
+      "resistance": "470",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.0625W"
+    }
+  },
+  {
+    "part_id": "2mz0kex2pajkram3nqne3fvc9n",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "3.9pF",
+      "footprint": "0402",
+      "tolerance": "0.1pF",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "4hsf293m4pjhwacbbjec6yenph",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1M",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "4th3dsvahpjh8ar9b2wkz1075k",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "1800pF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "75h8q7rtnwhz1ad0r4tq0yxna4",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "34zmdz1yvwhafawjm952r4ntct",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "35ykhvnem6jzvbvn489be5h9y1",
+    "specs": {
+      "type": "LED",
+      "color": "Red",
+      "viewing_angle": "130°",
+      "forward_voltage": "2.3V",
+      "footprint": "0603"
+    }
+  },
+  {
+    "part_id": "5hrp31vb8eh85a7xs0q7s7mnmc",
+    "specs": {
+      "type": "connector",
+      "description": "USB Connector, 24 Contact(s), Female, Right Angle, Solder Terminal, Locking, Receptacle"
+    }
+  },
+  {
+    "part_id": "5f9cty2eecg0jbgmtpt3fr5psw",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "47pF",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "3rc7f7tfpjgja9d301h41agrff",
+    "specs": {
+      "type": "inductor",
+      "inductance": "2.2uH",
+      "tolerance": "20%",
+      "core_material": "Metal Composite",
+      "mounting": "SMD"
+    }
+  },
+  {
+    "part_id": "566w8wmq96kgp99abb73zraaav",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1.5k",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "5fwv6ksm5jhbr996a5ph8f9zm8",
+    "specs": {
+      "type": "resistor",
+      "resistance": "120",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "9qrt92yj5mjbwb3j5n4d1jghmh",
+    "specs": {
+      "type": "other",
+      "description": "IC, battery management, LLCC, 8Pin, plastic",
+      "footprint": "LLCC-8",
+      "manufacturer": "Microchip",
+      "part_number": "MCP73831T-2ACI/MC"
+    }
+  },
+  {
+    "part_id": "354rz61kd4jyrb1mf4sn4rz2nw",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "20pF",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "voltage_rating": "50V",
+      "dielectric": "NP0"
+    }
+  },
+  {
+    "part_id": "38f5nxx9bjh64achvgzmkxxyrt",
+    "specs": {
+      "type": "ic",
+      "description": "Automotive WPC 1.2 compatible fully integrated wireless power receiver IC",
+      "footprint": "20-VQFN",
+      "temperature_range": "-40 to 125°C"
+    }
+  },
+  {
+    "part_id": "67kpczx5srksmaaagwmqwb8csy",
+    "specs": {
+      "type": "resistor",
+      "resistance": "2.2k",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "5sc8gwawntgnn9cfay1kjg3wfy",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "220pF",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "voltage_rating": "25V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "4kh5512vbcgv59kye0th4xzkyh",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.0018uF",
+      "footprint": "0402",
+      "tolerance": "10%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "674bae55bcg7a87e3s3h81z8dn",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "6.8pF",
+      "footprint": "0402",
+      "tolerance": "0.25pF",
+      "voltage_rating": "50V",
+      "dielectric": "C0G/NP0"
+    }
+  },
+  {
+    "part_id": "5m5h7b5vd0hqr8w4d91dc0ckss",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "4.7uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "10V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "awfvbjx5f2gm69s6sf6d3hnv37",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "100nF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "16V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "3v9dgwsvzggx0bpbc0dfhavn9g",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "15pF",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "voltage_rating": "25V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "3cdab8ndt0j63apsz5cv7hhhgq",
+    "specs": {
+      "type": "TVS/ESD",
+      "voltage_rating": "5.25V",
+      "current_rating": "5A",
+      "footprint": "SOT-23-6",
+      "direction": "Unidirectional"
+    }
+  },
+  {
+    "part_id": "6j8k7krts2gj2bmg8b54nf98kt",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "10uF",
+      "footprint": "0805",
+      "tolerance": "10%",
+      "voltage_rating": "16V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "66gh7z16qrk0nanmdb1wxktmvd",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "4.7uF",
+      "footprint": "0603",
+      "tolerance": "",
+      "voltage_rating": "16V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "52fr0nxg0gk9saefc1sdwebyy8",
+    "specs": {
+      "type": "IC",
+      "description": "WPC 1.1 Compatible Fully integrated Wireless power Receiver IC",
+      "footprint": "20-VQFN",
+      "temperature_range": "0 to 125°C"
+    }
+  },
+  {
+    "part_id": "799wwtbkpgh469hgsg1q20gnh2",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "812vrd0pntkfb8e52g8c4yypa0",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.01uF",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "voltage_rating": "10V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "b1qdtx86zakj48gt2baavv1vff",
+    "specs": {
+      "type": "connector",
+      "series": "PH",
+      "positions": 2,
+      "orientation": "side entry",
+      "pitch": "2.00mm",
+      "mounting": "surface mount",
+      "color": "natural"
+    }
+  },
+  {
+    "part_id": "3vez5b6bmgknp9yffhhtdzwaah",
+    "specs": {
+      "type": "resistor",
+      "resistance": "249k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "3emqwhhetrjz7aqy8pek41e599",
+    "specs": {
+      "type": "resistor",
+      "resistance": "300k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "85tk8tzyegh2rag43pv0hzqx4a",
+    "specs": {
+      "type": "resistor",
+      "resistance": "110k",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "675sntzhrah9baz9bn7wcf0pdc",
+    "specs": {
+      "type": "connector",
+      "description": "Molex 1.10mm Pitch microSD Memory Card Connector, Normal Mount SMT, Push-Push Type, 1.45mm Height, Anti-card fly-out"
+    }
+  },
+  {
+    "part_id": "58be5h9m4thjpbf8wjq8kh34k5",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.047uF",
+      "footprint": "0402",
+      "tolerance": "10%",
+      "voltage_rating": "25V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "7dv8sn2kkmktda6qwegfhvyc4w",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "47nF",
+      "footprint": "0402",
+      "tolerance": "",
+      "voltage_rating": "",
+      "dielectric": ""
+    }
+  },
+  {
+    "part_id": "849r77vm7ggbd9pn0k1tftf60w",
+    "specs": {
+      "type": "LED",
+      "footprint": "0603",
+      "color": "yellow green",
+      "wavelength": "567.5~576.5nm",
+      "luminous_intensity": "4.5~28mcd",
+      "mounting": "Front Mounting"
+    }
+  },
+  {
+    "part_id": "cbr9734gn8k7h93nckfxgg4pzp",
+    "specs": {
+      "type": "resistor",
+      "resistance": "340k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "3y75p2gvh6hj685jsqrjd6dp01",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1.5k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "4s2bvanprtgrbbdbnp57x5qgxq",
+    "specs": {
+      "type": "NOR Flash",
+      "description": "NOR Flash Serial-SPI 1.8V/2.5V/3.3V 8Mbit 8M/4M/2M x 1bit/2bit/4bit 12ns 8-Pin USON",
+      "footprint": "USON-8",
+      "voltage_rating": "1.8V/2.5V/3.3V",
+      "memory_size": "8Mbit",
+      "interface": "Serial-SPI",
+      "package": "USON-8"
+    }
+  },
+  {
+    "part_id": "8d1hvvnfjah6r8tv5bhpxxtf95",
+    "specs": {
+      "type": "crystal",
+      "frequency": "32.768kHz",
+      "tolerance": "±20ppm",
+      "load_capacitance": "12.5pF",
+      "esr": "70000Ohm",
+      "footprint": "CSMD",
+      "pins": "2"
+    }
+  },
+  {
+    "part_id": "6jq3d6jyjjj7sb7h6y04y9n2ez",
+    "specs": {
+      "type": "battery_holder",
+      "description": "Coin Cell Battery Holder",
+      "manufacturer": "Adam Tech",
+      "mpn": "BH-105A-1"
+    }
+  },
+  {
+    "part_id": "5trajw6qywg03baqm3b6d3ypqr",
+    "specs": {
+      "type": "resistor",
+      "resistance": "180",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "7nfp1fjbbyjecadssb5t55pkmk",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "84g50z83vtgjw8knxhwxsbbgzj",
+    "specs": {
+      "type": "resistor",
+      "resistance": "10",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.25W"
+    }
+  },
+  {
+    "part_id": "d7e0s4vxntjbk9cf90z6ynf8s9",
+    "specs": {
+      "type": "LED",
+      "footprint": "0603",
+      "color": "orange",
+      "wavelength": "605nm",
+      "luminous_intensity": "11~45mcd"
+    }
+  },
+  {
+    "part_id": "3zenkn59tmgjba2xfrn4b7sngf",
+    "specs": {
+      "type": "connector",
+      "subtype": "audio_jack",
+      "size": "3.5mm",
+      "channels": "stereo",
+      "orientation": "right_angle",
+      "mounting": "SMT"
+    }
+  },
+  {
+    "part_id": "51fbkbqd6pgy6aq3kvq7grmmx3",
+    "specs": {
+      "type": "mosfet",
+      "channel": "P",
+      "voltage_rating": "20V",
+      "current_rating": "2A",
+      "footprint": "SOT-23"
+    }
+  },
+  {
+    "part_id": "8ftn9syyxahzh9y72k0eegdys6",
+    "specs": {
+      "type": "diode",
+      "subtype": "Schottky",
+      "voltage_rating": "30V",
+      "current_rating": "1A",
+      "footprint": "SOD323"
+    }
+  },
+  {
+    "part_id": "7eqn0xfp7ghgfbpgdgxvhdk58h",
+    "specs": {
+      "type": "LED",
+      "color": "Green",
+      "wavelength": "572nm",
+      "footprint": "0805"
+    }
+  },
+  {
+    "part_id": "a83nh6gfr8gnc9st1mg1ff3cv5",
+    "specs": {
+      "type": "LED",
+      "footprint": "0603",
+      "color": "blue",
+      "wavelength": "465~475nm",
+      "luminous_intensity": "15mcd",
+      "mounting": "Front Mounting"
+    }
+  },
+  {
+    "part_id": "7t8d8x0g0jj2ha7dhadgy2f26a",
+    "specs": {
+      "type": "resistor",
+      "resistance": "82k",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "97g18nxb08gnjac36n8cbd9xyh",
+    "specs": {
+      "type": "resistor",
+      "resistance": "560k",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "esz3n3eyg0kncany6652nsepjr",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "8.2pF",
+      "footprint": "0402",
+      "tolerance": "5pF",
+      "voltage_rating": "50V",
+      "dielectric": "C0G/NP0"
+    }
+  },
+  {
+    "part_id": "4dcdsxqvx8gptby9fhrfhvs1rf",
+    "specs": {
+      "type": "microcontroller",
+      "description": "MCU 32-Bit SAM D21 ARM Cortex M0+ RISC 256KB Flash 3.3V 32-Pin QFN-EP",
+      "footprint": "QFN-32-EP"
+    }
+  },
+  {
+    "part_id": "52c36979zwhs29ejadgpdc6jee",
+    "specs": {
+      "type": "MCU",
+      "description": "32-Bit SAM D21 ARM Cortex M0+ RISC 256KB Flash 3.3V 48-Pin QFN EP T/R"
+    }
+  },
+  {
+    "part_id": "8h5wxd6q5rhyf9a86yg3wdyfva",
+    "specs": {
+      "type": "LDO",
+      "voltage_output": "3.3V",
+      "voltage_input_max": "5.5V",
+      "current_output": "500mA",
+      "PSRR": "67dB@1kHz",
+      "footprint": "SOT-23-5"
+    }
+  },
+  {
+    "part_id": "7pt6302qzcjyt9ywq8tpqe5kz1",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "c2nv5qrcdagcw83dsktdcs3era",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1K",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.25W"
+    }
+  },
+  {
+    "part_id": "8eg0t88t2tk8b89qg951k5jtx1",
+    "specs": {
+      "type": "resistor",
+      "resistance": "330",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "9a0qjscg90gz0b766mj25ncvjg",
+    "specs": {
+      "type": "resistor",
+      "resistance": "4.3k",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "5dkyme6pe0jb3bjh2z5k434nt3",
+    "specs": {
+      "type": "resistor",
+      "resistance": "13",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "5p42bqk15jhsrajvevt8w3pn5d",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "1uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "10V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "8nq0ma6s1wgja829xw2tfa300h",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1000ohm",
+      "footprint": "0603",
+      "tolerance": "0.5%",
+      "power_rating": "0.0625W"
+    }
+  },
+  {
+    "part_id": "8y236xdka2h6785e8wrgcap0e5",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.022uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "25V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "962ew328srk3bbv0rw5azrt2k1",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "ajpxh5yr44hrd83axme7djpje9",
+    "specs": {
+      "type": "diplexer",
+      "pass_band_low": "617-960MHz",
+      "pass_band_high": "1452-2690MHz"
+    }
+  },
+  {
+    "part_id": "cw0kt0qb5yj3dbef9dbf2ap50c",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "5fx1sjst1tg5bb69mnsm6pyzwx",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "1uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "10V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "63sta29nc6kfd8myykvmjmjps4",
+    "specs": {
+      "type": "jumper",
+      "contacts": "2",
+      "pitch": "0.100\"",
+      "style": "Closed Top"
+    }
+  },
+  {
+    "part_id": "8sbtywr9vpkjyagzvhdwxddsg9",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "2.2uF",
+      "footprint": "0805",
+      "tolerance": "10%",
+      "voltage_rating": "10V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "9h6ccabxv8kye97dy7grjhfk4v",
+    "specs": null
+  },
+  {
+    "part_id": "9rqtk170s4gyzbmscak499yewc",
+    "specs": {
+      "type": "resistor",
+      "resistance": "330",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "cfe8qtcw5cgrkajfzzn1bf3ed6",
+    "specs": {
+      "type": "GNSS module",
+      "description": "u-blox M8 GNSS System-in-Package ROM, TCXO, SAW, LNA, 3V",
+      "footprint": "S-LGA-51 4.5x4.5mm",
+      "voltage": "3V"
+    }
+  },
+  {
+    "part_id": "d7qv3sv5ywggq86mmyecapsm0x",
+    "specs": {
+      "type": "resistor",
+      "resistance": "16",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "5wtb81kft8g3p957thsygn2v0p",
+    "specs": {
+      "type": "resistor",
+      "resistance": "560k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "8g5frp88v6g1m8ybxa9yqjwa4q",
+    "specs": {
+      "type": "sensor",
+      "subtype": "digital barometric pressure sensor",
+      "series": "BMP388",
+      "max_pressure": "125kPa",
+      "max_voltage": "3.6V",
+      "interface": "digital"
+    }
+  },
+  {
+    "part_id": "cb1f6hzhtwh5dapqw098hnnr46",
+    "specs": {
+      "type": "resistor",
+      "resistance": "20k",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "power_rating": "1/16W"
+    }
+  },
+  {
+    "part_id": "a5ayagdwscj79ar2sga5nzz45e",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "6.8pF",
+      "footprint": "0603",
+      "tolerance": "0.5pF",
+      "voltage_rating": "",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "9vczw6dnqwhq48qn971pk7h4zm",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.022uF",
+      "footprint": "0402",
+      "tolerance": "10%",
+      "voltage_rating": "16V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "daw6rvnz9rh6yb8an09nr7bxs6",
+    "specs": {
+      "type": "ferrite_bead",
+      "impedance": "1kOhm",
+      "tolerance": "25%",
+      "frequency": "100MHz",
+      "current_rating": "300mA",
+      "footprint": "0402"
+    }
+  },
+  {
+    "part_id": "e1h0gszsrpjmtas1vjxvn6g2e5",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "33pF",
+      "footprint": "0402",
+      "tolerance": "",
+      "voltage_rating": "16V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "5yrhy62zp8hdm99ww5r7ha990w",
+    "specs": {
+      "type": "other",
+      "description": "BMA253 Series 3.6V 130uA 3-Axis Digital Triaxial Acceleration Sensor",
+      "footprint": "LGA-12"
+    }
+  },
+  {
+    "part_id": "98574wgn04kgp90h11jdb1px7s",
+    "specs": {
+      "type": "resistor",
+      "resistance": "2k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "cw31qh93qwh3gan1e9qbwtd9g1",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "4pF",
+      "footprint": "0402",
+      "tolerance": "0.1pF",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "aytessv7hyjevaqt67w5mz0kqc",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "2.2uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "10V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "9z6bhh7jmjk44bfhrt1j42f3z9",
+    "specs": {
+      "type": "resistor",
+      "resistance": "10k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.125W"
+    }
+  },
+  {
+    "part_id": "dspb3frb2pg2xbtbfqy1c01y0m",
+    "specs": {
+      "type": "crystal",
+      "frequency": "32MHz",
+      "tolerance": "±10ppm",
+      "stability": "±10ppm",
+      "load_capacitance": "10pF",
+      "esr": "40Ohm",
+      "footprint": "Mini-CSMD",
+      "pins": "4"
+    }
+  },
+  {
+    "part_id": "ejm7fd2zhch6c8sgkcd2h858d5",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "63yg4d2v6tk0qbyb8x29ey3p5a",
+    "specs": {
+      "type": "resistor",
+      "resistance": "110k",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "9hz7bsnw32ktnagzv1mztf3e8e",
+    "specs": {
+      "type": "RF transceiver",
+      "description": "SX1262 Series 3.7V 22dBm 960MHz 300kbps Long Range RF Transceiver",
+      "footprint": "QFN-24"
+    }
+  },
+  {
+    "part_id": "d47bepjnnrg5t87bj876gjna5w",
+    "specs": {
+      "type": "resistor",
+      "resistance": "300k",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "b6z681msqyh17b6cs9v0x7d004",
+    "specs": {
+      "type": "resistor",
+      "resistance": "0",
+      "footprint": "0402",
+      "tolerance": null,
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "azh794b3rcj4m92a9sfhq0b1a8",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "10uF",
+      "footprint": "0603",
+      "tolerance": "20%",
+      "voltage_rating": "16V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "e1s8t9f85cgdxacknswxr94w29",
+    "specs": {
+      "type": "sensor",
+      "description": "BMA456 Series 3.6V 1.6kHz Digital Triaxial Acceleration Sensor",
+      "footprint": "LGA-12",
+      "voltage_rating": "3.6V"
+    }
+  },
+  {
+    "part_id": "ezyghy0cawjfrb3yq8cpmf246y",
+    "specs": {
+      "type": "resistor",
+      "resistance": "4.3k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "1/16W"
+    }
+  },
+  {
+    "part_id": "6gdpn01sv8j2p8qr6xxcqmp33r",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "100nF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "9khxehahnekby9nn2ag6bg9kjy",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1.5k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "62.5mW"
+    }
+  },
+  {
+    "part_id": "dqe8swph6rkz59dv37798tzz7n",
+    "specs": {
+      "type": "resistor",
+      "resistance": "20k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "100mW"
+    }
+  },
+  {
+    "part_id": "bdj2129gxtgetaes7akb8sq5yf",
+    "specs": {
+      "type": "resistor",
+      "resistance": "470",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "b5k98tpznyjp98586h07fc3x2t",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.047uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "16V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "efw49mx9q8ja5b50v6v5pjgd2a",
+    "specs": {
+      "type": "TVS diode",
+      "direction": "bidirectional",
+      "voltage": "5.5V",
+      "footprint": "SL",
+      "package": "2-Pin SL"
+    }
+  },
+  {
+    "part_id": "ff0s618yc6h70aa20kfxpttapx",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "33pF",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "voltage_rating": "16V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "6ze4avg9v8jqd83jk5745a8mv0",
+    "specs": {
+      "type": "resistor",
+      "resistance": "120",
+      "footprint": "0603",
+      "tolerance": "",
+      "power_rating": ""
+    }
+  },
+  {
+    "part_id": "a9dbejdnkpkeh8ch1s5g2tj0mc",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "edzscw2tm2k518m6efjwybkm6k",
+    "specs": {
+      "type": "infrared_emitter",
+      "footprint": "1206"
+    }
+  },
+  {
+    "part_id": "c3h1temq5phmhb1tnq31x4r3vn",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "bxhrc0vc4ageqa2pf6319ef3dx",
+    "specs": {
+      "type": "resistor",
+      "resistance": "10k",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "f2cbnk04z6knvarxb5xskp139r",
+    "specs": {
+      "type": "inductor",
+      "inductance": "6.8uH",
+      "footprint": "2424",
+      "tolerance": "20%",
+      "current_rating": "3.6A",
+      "dcr": "0.0468Ohm"
+    }
+  },
+  {
+    "part_id": "73pd6bhm6rkvj85eszn6s3mmkz",
+    "specs": {
+      "type": "LED",
+      "color": "Green",
+      "wavelength": "562nm",
+      "luminous_intensity": "0.48lm",
+      "footprint": "PLCC-2"
+    }
+  },
+  {
+    "part_id": "baq5t23r2wkyray2840rm0625z",
+    "specs": {
+      "type": "resistor",
+      "resistance": "82k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "f94jdk9da2g4f88xq3m475bpsw",
+    "specs": {
+      "type": "connector",
+      "subtype": "SMA jack",
+      "impedance": "50 Ohm"
+    }
+  },
+  {
+    "part_id": "bz1t19d8m2jrra9j6jzeh5qvpe",
+    "specs": {
+      "type": "resistor",
+      "resistance": "68k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "100mW"
+    }
+  },
+  {
+    "part_id": "cm46qzg2ytg3t9vdvmw5f4rvsx",
+    "specs": {
+      "type": "GNSS antenna module",
+      "description": "3.6V -164dBm Easy-to-use u-blox M8 GNSS Antenna Module"
+    }
+  },
+  {
+    "part_id": "7m0n9wrxvmkg187hxp286zyy25",
+    "specs": {
+      "type": "diode",
+      "subtype": "Schottky",
+      "voltage_rating": "20V",
+      "current_rating": "1A",
+      "footprint": "SOD-123FL",
+      "series": "MBR120VLSF"
+    }
+  },
+  {
+    "part_id": "bk9wm5j5xmks78rb9mrqpjdyax",
+    "specs": {
+      "type": "resistor",
+      "resistance": "100k",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "dz5vr941a2ha7b5rz3gcj4ktbp",
+    "specs": {
+      "type": "resistor",
+      "resistance": "100k",
+      "footprint": "0805",
+      "tolerance": "1%",
+      "power_rating": "0.125W"
+    }
+  },
+  {
+    "part_id": "csgfmtv7etgs98jdsz14cteds7",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "84jkk9p6aekm7a42nprtbt5vb9",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "100nF",
+      "footprint": "0402",
+      "tolerance": "10%",
+      "voltage_rating": "16V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "ekva04jrdegx5bv1b2phqgn9bw",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.1uF",
+      "footprint": "0805",
+      "tolerance": "5%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "c1jba9ycnrkd89c8fpbs0dm1t2",
+    "specs": {
+      "type": "resistor",
+      "resistance": "10k",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "100mW"
+    }
+  },
+  {
+    "part_id": "cv2vse83s4hx38dyc5xqgsf65a",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "8vzeys741ggnmb3hap6c6scmpj",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "100pF",
+      "footprint": "0805",
+      "tolerance": "5%",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "en46xc3b9cg878zngcd4ptzqwg",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "470nF",
+      "footprint": "0402",
+      "tolerance": "10%",
+      "voltage_rating": "25V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "cwcr5bg7t8h1b8eq7nesk7a1fx",
+    "specs": {
+      "type": "connector",
+      "subtype": "USB",
+      "contacts": "5",
+      "gender": "Female",
+      "orientation": "Right Angle",
+      "mounting": "Surface Mount",
+      "locking": "Yes",
+      "configuration": "Receptacle"
+    }
+  },
+  {
+    "part_id": "dg1qbyhjtjgah8x3fqhk2fz673",
+    "specs": {
+      "type": "resistor",
+      "resistance": "4.3K",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  },
+  {
+    "part_id": "akfhx36w3wkxgaz72naak4tw68",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "10uF",
+      "footprint": "0805",
+      "tolerance": "10%",
+      "voltage_rating": "25V",
+      "dielectric": "X5R"
+    }
+  },
+  {
+    "part_id": "ez40ve4c5ch7d8r9ynpyh06x3v",
+    "specs": {
+      "type": "connector",
+      "description": "Spring-Loaded Pin with a Standard Tail",
+      "footprint": ""
+    }
+  },
+  {
+    "part_id": "e2dyrgsmmmk5y9m9v0krasz1xn",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "3pF",
+      "footprint": "0402",
+      "tolerance": "0.1pF",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "dss6fbetq6kx8bdnh0j1xwb2vn",
+    "specs": {
+      "type": "resistor",
+      "resistance": "330",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "ba6hz9n1egj6zb711jgeg85fad",
+    "specs": {
+      "type": "audio_power_amplifier",
+      "channels": "1",
+      "output_power": "3W x 1 @ 4Ohm",
+      "class": "D",
+      "voltage_range": "2.8V to 6V",
+      "package": "DFN3030",
+      "pins": "8"
+    }
+  },
+  {
+    "part_id": "fmf4bhqvn4heh8j4tvt0tqt6bs",
+    "specs": {
+      "type": "resistor",
+      "resistance": "13",
+      "footprint": "0603",
+      "tolerance": "",
+      "power_rating": ""
+    }
+  },
+  {
+    "part_id": "egqsw7ybb0gtm8cvr5n72r5dmm",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.1uF",
+      "footprint": "0508",
+      "tolerance": "20%",
+      "voltage_rating": "25V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "dvvhacaf4ggpj9vnxcgz782t5b",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "5.6pF",
+      "footprint": "0402",
+      "tolerance": "0.1pF",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    }
+  },
+  {
+    "part_id": "bq796rx77pgz7ajs8zttvdyfrf",
+    "specs": {
+      "type": "resistor",
+      "resistance": "1K",
+      "footprint": "0402",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    }
+  },
+  {
+    "part_id": "ew82zpdzygh8k88s5pwc0tt5sk",
+    "specs": {
+      "type": "switch",
+      "subtype": "slide switch",
+      "configuration": "SPDT",
+      "action": "On-On",
+      "voltage_rating": "6V",
+      "current_rating": "0.3A",
+      "mounting": "SMT",
+      "series": "JS10"
+    }
+  },
+  {
+    "part_id": "dvy7f18d7gjfz86xrxyrxee0xw",
+    "specs": {
+      "type": "other"
+    }
+  },
+  {
+    "part_id": "cs0xn9gbd6gxn8gc0k5k3a6773",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "10nF",
+      "footprint": "0402",
+      "tolerance": "5%",
+      "voltage_rating": "25V",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "fgbh53p3rcj0s8a5yd9bv5hvke",
+    "specs": {
+      "type": "LED",
+      "color": "Orange",
+      "wavelength": "611nm",
+      "footprint": "0805"
+    }
+  },
+  {
+    "part_id": "e1mw3r4r8jgz0a6f1yyy7mvk29",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "0.1uF",
+      "footprint": "0603",
+      "tolerance": "10%",
+      "voltage_rating": "",
+      "dielectric": "X7R"
+    }
+  },
+  {
+    "part_id": "da0b6hc0w0j3v9tkv1517a5f91",
+    "specs": {
+      "type": "capacitor",
+      "capacitance": "22pF",
+      "footprint": "0603",
+      "tolerance": "5%",
+      "voltage_rating": "50V",
+      "dielectric": "C0G/NP0"
+    }
+  },
+  {
+    "part_id": "djvjb76bw4k3w8mv0xcb44evby",
+    "specs": {
+      "type": "inductor",
+      "inductance": "15uH",
+      "footprint": "0806",
+      "tolerance": "5%",
+      "current_rating": "190mA",
+      "dcr": "1.95Ohm",
+      "q_factor": "25",
+      "self_resonant_frequency": "2.52MHz"
+    }
+  },
+  {
+    "part_id": "eyz60mjcvyjq684ea1vm2aarkb",
+    "specs": {
+      "type": "MOSFET",
+      "channel": "P",
+      "voltage_rating": "30V",
+      "current_rating": "1.5A",
+      "footprint": "SOT-23"
+    }
+  },
+  {
+    "part_id": "dqdhaj0hajkhrb23yd863gnk2z",
+    "specs": {
+      "type": "inductor",
+      "inductance": "13uH",
+      "footprint": "RDL",
+      "dcr": "200mOhm",
+      "frequency": "100KHz"
+    }
+  },
+  {
+    "part_id": "fntwv8sm38hncbf0vb7c51aqk2",
+    "specs": {
+      "type": "test_point",
+      "footprint": "0603"
+    }
+  },
+  {
+    "part_id": "ezxgmygas8gnx8mhm8e6y2abrq",
+    "specs": {
+      "type": null
+    }
+  },
+  {
+    "part_id": "fhrhx94gechk18brs68j9y45mf",
+    "specs": {
+      "type": "switch",
+      "subtype": "slide switch",
+      "configuration": "DPDT",
+      "switching_action": "On-On",
+      "current_rating": "0.3A",
+      "voltage_rating": "6VDC",
+      "mounting": "Surface Mount",
+      "package": "J-Lead"
+    }
+  },
+  {
+    "part_id": "fmys8dsmhgjwt9v0tpwakgktve",
+    "specs": {
+      "type": "resistor",
+      "resistance": "470",
+      "footprint": "0603",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    }
+  }
+]
