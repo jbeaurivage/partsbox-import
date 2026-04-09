@@ -64,7 +64,6 @@ for idx, part in enumerate(parts):
         else:
             content_text = str(message.content)
 
-        print(content_text)
         # Remove markdown code block markers if present
         content_text = re.sub(r"^```json|^```|```$", "", content_text, flags=re.MULTILINE).strip()
 
@@ -79,7 +78,9 @@ for idx, part in enumerate(parts):
                 extracted_data = {}
 
         result = {
-            "part_id": part.get("part/id"),
+            "part/id": part.get("part/id"),
+            "part/description": description,
+            "part/mpn": part.get("part/mpn", ""),
             "specs": extracted_data
         }
         output.append(result)
@@ -89,5 +90,5 @@ for idx, part in enumerate(parts):
         print(f"Error processing part {part.get('part/id')}: {e}")
 
 # Write output to a JSON file
-with open("extracted_parts2.json", "w", encoding="utf-8") as f:
+with open("part_specs.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
