@@ -1,8 +1,4 @@
-use crate::{
-    footprint::Footprint,
-    metapart,
-    partsbox_api::{Client, PartId},
-};
+use crate::{footprint::Footprint, metapart, partsbox_api::PartId};
 
 #[derive(Clone, Debug)]
 pub struct SmdResistor {

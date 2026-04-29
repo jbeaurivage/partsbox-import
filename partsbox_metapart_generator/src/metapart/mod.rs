@@ -1,7 +1,4 @@
-use crate::{
-    footprint::Footprint,
-    partsbox_api::{Client, PartId},
-};
+use crate::footprint::Footprint;
 use serde_json::Value;
 
 pub mod resistor;
