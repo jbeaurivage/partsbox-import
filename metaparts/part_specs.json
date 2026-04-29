@@ -176,7 +176,7 @@
     "part/id": "0dsffwghvcg2mbegjb5aab1pwr",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.01uF",
+      "capacitance": "10nF",
       "footprint": "0603",
       "tolerance": "5%",
       "voltage_rating": "25V",
@@ -202,10 +202,10 @@
     "specs": {
       "type": "capacitor",
       "capacitance": "100uF",
-      "footprint": "3216",
+      "footprint": "1206",
       "tolerance": "10%",
       "voltage_rating": "6.3V",
-      "dielectric": "Tantalum"
+      "dielectric": "tantalum"
     },
     "part/description": "Cap Tant Solid 100uF 6.3V A CASE 10%( 3.2 X 1.6 X 1.6mm) Inward L SMD 3216-18 2 Ohm 125C T/R",
     "part/mpn": "F930J107KAA"
@@ -453,7 +453,7 @@
     "part/id": "3y51d4n4kyhyx9033j4nemn5my",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.022uF",
+      "capacitance": "22nF",
       "footprint": "0402",
       "tolerance": "10%",
       "voltage_rating": "50V",
@@ -480,9 +480,9 @@
       "type": "capacitor",
       "capacitance": "8.2pF",
       "footprint": "0603",
-      "tolerance": "",
+      "tolerance": "0.5pF",
       "voltage_rating": "10V",
-      "dielectric": "Ultra Stable"
+      "dielectric": "C0G"
     },
     "part/description": "Cap Cer 0603 8.2PF 10V Ultra Sta",
     "part/mpn": "C0603C829D8HAC7867"
@@ -586,7 +586,7 @@
     "part/id": "4th3dsvahpjh8ar9b2wkz1075k",
     "specs": {
       "type": "capacitor",
-      "capacitance": "1800pF",
+      "capacitance": "1.8nF",
       "footprint": "0603",
       "tolerance": "10%",
       "voltage_rating": "50V",
@@ -746,7 +746,7 @@
     "part/id": "4kh5512vbcgv59kye0th4xzkyh",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.0018uF",
+      "capacitance": "1.8nF",
       "footprint": "0402",
       "tolerance": "10%",
       "voltage_rating": "50V",
@@ -868,7 +868,7 @@
     "part/id": "812vrd0pntkfb8e52g8c4yypa0",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.01uF",
+      "capacitance": "10nF",
       "footprint": "0402",
       "tolerance": "5%",
       "voltage_rating": "10V",
@@ -940,7 +940,7 @@
     "part/id": "58be5h9m4thjpbf8wjq8kh34k5",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.047uF",
+      "capacitance": "47nF",
       "footprint": "0402",
       "tolerance": "10%",
       "voltage_rating": "25V",
@@ -955,9 +955,9 @@
       "type": "capacitor",
       "capacitance": "47nF",
       "footprint": "0402",
-      "tolerance": "",
-      "voltage_rating": "",
-      "dielectric": ""
+      "tolerance": "5%",
+      "voltage_rating": "16V",
+      "dielectric": "X7R"
     },
     "part/description": "Smd Mlcc Multilayer Ceramic Capacitors 47 nF",
     "part/mpn": "CC0402JRX7R7BB473"
@@ -1285,7 +1285,7 @@
     "part/id": "8nq0ma6s1wgja829xw2tfa300h",
     "specs": {
       "type": "resistor",
-      "resistance": "1000ohm",
+      "resistance": "1k",
       "footprint": "0603",
       "tolerance": "0.5%",
       "power_rating": "0.063W"
@@ -1297,7 +1297,7 @@
     "part/id": "8y236xdka2h6785e8wrgcap0e5",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.022uF",
+      "capacitance": "22nF",
       "footprint": "0603",
       "tolerance": "10%",
       "voltage_rating": "25V",
@@ -1468,7 +1468,7 @@
     "part/id": "9vczw6dnqwhq48qn971pk7h4zm",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.022uF",
+      "capacitance": "22nF",
       "footprint": "0402",
       "tolerance": "10%",
       "voltage_rating": "16V",
@@ -1626,7 +1626,7 @@
       "type": "resistor",
       "resistance": "0",
       "footprint": "0402",
-      "tolerance": null,
+      "tolerance": "0",
       "power_rating": "0.063W"
     },
     "part/description": "Zero Ohm Resistor, Jumper, 0402 [1005 Metric], Thick Film, 63 mW, 1 A, Surface Mount",
@@ -1721,7 +1721,7 @@
     "part/id": "b5k98tpznyjp98586h07fc3x2t",
     "specs": {
       "type": "capacitor",
-      "capacitance": "0.047uF",
+      "capacitance": "47nF",
       "footprint": "0603",
       "tolerance": "10%",
       "voltage_rating": "16V",
@@ -2089,19 +2089,6 @@
     },
     "part/description": "resistor 0603  13(ohms)",
     "part/mpn": "RMC16K130FTP"
-  },
-  {
-    "part/id": "egqsw7ybb0gtm8cvr5n72r5dmm",
-    "specs": {
-      "type": "capacitor",
-      "capacitance": "0.1uF",
-      "footprint": "0508",
-      "tolerance": "20%",
-      "voltage_rating": "25V",
-      "dielectric": "X7R"
-    },
-    "part/description": "Cap Ceramic 0.1uF 25V X7R 20% SMD 0508 125°C Punched Paper T/R",
-    "part/mpn": "C1220X7R1E104M085AC"
   },
   {
     "part/id": "dvvhacaf4ggpj9vnxcgz782t5b",

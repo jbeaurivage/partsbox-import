@@ -16,17 +16,19 @@ response = requests.post(f"{BASE_URL}/part/all", headers=headers, json={})
 response.raise_for_status()
 parts = response.json().get("data", [])
 
-# Write to CSV
-with open("all_parts.csv", "w", newline="") as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(["part_number", "id", "description", "footprint", "tags"])
-    for part in parts:
-        part_number = part.get("part/name", "")
-        part_id = part.get("part/id", "")
-        description = part.get("part/description", "")
-        footprint = part.get("part/footprint", "")
-        tags = part.get("part/tags", [])
-        tags_str = ";".join(tags) if tags else ""
-        writer.writerow([part_number, part_id, description, footprint, tags_str])
+print(parts)
 
-print("Wrote all_parts.csv")
+# # Write to CSV
+# with open("all_parts.csv", "w", newline="") as csvfile:
+#     writer = csv.writer(csvfile)
+#     writer.writerow(["part_number", "id", "description", "footprint", "tags"])
+#     for part in parts:
+#         part_number = part.get("part/name", "")
+#         part_id = part.get("part/id", "")
+#         description = part.get("part/description", "")
+#         footprint = part.get("part/footprint", "")
+#         tags = part.get("part/tags", [])
+#         tags_str = ";".join(tags) if tags else ""
+#         writer.writerow([part_number, part_id, description, footprint, tags_str])
+
+# print("Wrote all_parts.csv")

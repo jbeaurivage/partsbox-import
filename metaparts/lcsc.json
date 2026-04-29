@@ -1,0 +1,183 @@
+[
+  {
+    "part/id": "I7yc08frtpjgn19mnar41dxvc5p",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0402",
+      "resistance": "10",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    },
+    "part/description": "Res Thick Film 0402 10 Ohm 1% 0.063W(1/16W) ±200ppm/C Pad SMD T/R",
+    "part/mpn": "0402WGF100JTCE"
+  },
+  {
+    "part/id": "Ib5jvk02880hsha0v92e9dp7gzm",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0402",
+      "resistance": "5.1k",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    },
+    "part/description": "Res Thick Film 0402 5.1K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R",
+    "part/mpn": "0402WGF5101TCE"
+  },
+  {
+    "part/id": "Id3yrxqbkbpg15b4m3qf6sfhv4a",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0402",
+      "resistance": "27",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    },
+    "part/description": "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 27Ω 0402 Chip Resistor - Surface Mount ROHS",
+    "part/mpn": "0402WGF270JTCE"
+  },
+  {
+    "part/id": "I0gcwjv1pdtjnr9apc2mgapz0e7",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0402",
+      "resistance": "200",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    },
+    "part/description": "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200Ω 0402 Chip Resistor - Surface Mount ROHS",
+    "part/mpn": "0402WGF2000TCE"
+  },
+  {
+    "part/id": "I4ykhzf9gatk44b1tpn8zeatjk9",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0603",
+      "resistance": "100",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    },
+    "part/description": "Fixed Resistor, Metal Glaze/thick Film, 0.1W, 100ohm, 50V, 1% +/-Tol, 200ppm/Cel, Surface Mount, 0603",
+    "part/mpn": "0603WAF1000T5E"
+  },
+  {
+    "part/id": "Ib8ghb9072ej1aab798b7kchbah",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0402",
+      "resistance": "1k",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    },
+    "part/description": "Fixed Resistor, Metal Glaze/thick Film, 0.0625W, 1000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402",
+    "part/mpn": "0402WGF1001TCE"
+  },
+  {
+    "part/id": "Ie3p036jmgjjkybx0wtp6dax17b",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0603",
+      "resistance": "18k",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    },
+    "part/description": "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 18kΩ 0603 Chip Resistor - Surface Mount ROHS",
+    "part/mpn": "0603WAF1802T5E"
+  },
+  {
+    "part/id": "I0ymnr3hnvthexbv0wyk716cw3n",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0603",
+      "resistance": "1k",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    },
+    "part/description": "Res Thick Film 0603 1K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD T/R",
+    "part/mpn": "0603WAF1001T5E"
+  },
+  {
+    "part/id": "I0ymcz16avmhwr95egpfjpwaa2k",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0402",
+      "resistance": "33",
+      "tolerance": "1%",
+      "power_rating": "0.063W"
+    },
+    "part/description": "Res Thick Film 0402 33 Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R",
+    "part/mpn": "0402WGF330JTCE"
+  },
+  {
+    "part/id": "I6gqyw9jenykkxaaqn79gn93wd7",
+    "specs": {
+      "type": "capacitor",
+      "footprint": "0402",
+      "capacitance": "15pF",
+      "tolerance": "5%",
+      "voltage_rating": "50V",
+      "dielectric": "C0G"
+    },
+    "part/mpn": "0402CG150J500NT"
+  },
+   {
+    "part/id": "I5zpgjt125gj9zbagq2950m5km5",
+    "specs": {
+      "type": "capacitor",
+      "footprint": "0603",
+      "capacitance": "2.2uF",
+      "tolerance": "10%",
+      "voltage_rating": "16V",
+      "dielectric": "X5R"
+    },
+    "part/mpn": "CL10A225KO8NNNC"
+  },
+     {
+    "part/id": "Idvc9vg8c7cgqra8ykk6meazp3f",
+    "specs": {
+      "type": "capacitor",
+      "footprint": "0603",
+      "capacitance": "1uF",
+      "tolerance": "10%",
+      "voltage_rating": "50V",
+      "dielectric": "X5R"
+    },
+    "part/mpn": "CL10A105KB8NNNC"
+  },
+  {
+    "part/id": "I2sk5qbgpw8ktt9jweetdm09kkz",
+    "specs": {
+      "type": "resistor",
+      "footprint": "0603",
+      "resistance": "100k",
+      "tolerance": "1%",
+      "power_rating": "0.1W"
+    },
+    "part/description": "Fixed Resistor, Metal Glaze/thick Film, 0.1W, 100000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603",
+    "part/mpn": "0603WAF1003T5E"
+  },
+  {
+    "part/id": "Ibwza05yp3tgesak4sf9vz2qqym",
+    "specs": {
+      "type": "capacitor",
+      "footprint": "0603",
+      "capacitance": "100nF",
+      "tolerance": "10%",
+      "voltage_rating": "50V",
+      "dielectric": "X7R"
+    },
+    "part/description": "Multilayer Ceramic Capacitor, CC Series, 100nF, - 10%, X7R, 50 V, 0603 [1608 Metric]",
+    "part/mpn": "CC0603KRX7R9BB104"
+  },
+  {
+    "part/id": "I590mqdgjyrgts8pwxavj0h3m9c",
+    "specs": {
+      "type": "capacitor",
+      "footprint": "0805",
+      "capacitance": "10uF",
+      "tolerance": "10%",
+      "voltage_rating": "25V",
+      "dielectric": "X5R"
+    },
+    "part/mpn": "CL21A106KAYNNNE"
+  }
+]
